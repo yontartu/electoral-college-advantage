@@ -1,0 +1,32 @@
+year,tp_state,tp_state_margin,natl_margin,ec_advantage,winning_party,candidate,ec_advantage_display,winning_party_display,candidate_display
+1900,Illinois,-0.084,-0.062,-0.022,rep,mckinl.,-2.2%,Rep,Mckinl.
+1904,New Jersey,-0.186,-0.188,0.002,rep,roosev.,0.2%,Rep,Roosev.
+1908,West Virginia,-0.102,-0.085,-0.017,rep,taft,-1.7%,Rep,Taft
+1912,Ohio,0.141,0.187,-0.045,dem,wilson,-4.5%,Dem,Wilson
+1916,California,0.004,0.031,-0.028,dem,wilson,-2.8%,Dem,Wilson
+1920,Rhode Island,-0.312,-0.262,-0.05,rep,harding,-5.0%,Rep,Harding
+1924,New York,-0.266,-0.252,-0.014,rep,coolid.,-1.4%,Rep,Coolid.
+1928,Illinois,-0.146,-0.174,0.028,rep,hoover,2.8%,Rep,Hoover
+1932,Iowa,0.177,0.178,-0.0,dem,roosev.,-0.0%,Dem,Roosev.
+1936,Ohio,0.206,0.243,-0.037,dem,roosev.,-3.7%,Dem,Roosev.
+1940,Pennsylvania,0.069,0.099,-0.03,dem,roosev.,-3.0%,Dem,Roosev.
+1944,New York,0.05,0.075,-0.025,dem,roosev.,-2.5%,Dem,Roosev.
+1948,Illinois,0.009,0.045,-0.036,dem,truman,-3.6%,Dem,Truman
+1952,Michigan,-0.115,-0.109,-0.006,rep,eisenh.,-0.6%,Rep,Eisenh.
+1956,Florida,-0.145,-0.154,0.009,rep,eisenh.,0.9%,Rep,Eisenh.
+1960,New Jersey,0.008,0.002,0.006,dem,kennedy,0.6%,Dem,Kennedy
+1964,Washington,0.246,0.226,0.02,dem,johnson,2.0%,Dem,Johnson
+1968,Ohio,-0.023,-0.007,-0.016,rep,nixon,-1.6%,Rep,Nixon
+1972,Ohio,-0.216,-0.231,0.016,rep,nixon,1.6%,Rep,Nixon
+1976,Wisconsin,0.017,0.021,-0.004,dem,carter,-0.4%,Dem,Carter
+1980,Illinois,-0.079,-0.097,0.018,rep,reagan,1.8%,Rep,Reagan
+1984,Michigan,-0.19,-0.182,-0.008,rep,reagan,-0.8%,Rep,Reagan
+1988,Michigan,-0.079,-0.077,-0.002,rep,bush,-0.2%,Rep,Bush
+1992,Tennessee,0.046,0.056,-0.009,dem,clinton,-0.9%,Dem,Clinton
+1996,Pennsylvania,0.092,0.085,0.007,dem,clinton,0.7%,Dem,Clinton
+2000,Florida,-0.0,0.005,-0.005,rep,bush,-0.5%,Rep,Bush
+2004,Ohio,-0.021,-0.025,0.004,rep,bush,0.4%,Rep,Bush
+2008,Colorado,0.089,0.073,0.017,dem,obama,1.7%,Dem,Obama
+2012,Colorado,0.054,0.039,0.015,dem,obama,1.5%,Dem,Obama
+2016,Pennsylvania,-0.007,0.021,-0.028,rep,trump,-2.8%,Rep,Trump
+2020,Wisconsin,0.006,0.045,-0.038,dem,biden,-3.8%,Dem,Biden
